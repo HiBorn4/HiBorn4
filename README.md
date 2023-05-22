@@ -1,16 +1,14 @@
-### Hi there 👋
+# Welcome to my GitHub profile!
 
-<!--
-**HiBorn4/HiBorn4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Name: John Smith
+- Location: City, Country
+- Occupation: Software Developer
 
-Here are some ideas to get you started:
+## Projects
+- Project 1: [Link to Project 1](https://github.com/johnsmith/project1)
+- Project 2: [Link to Project 2](https://github.com/johnsmith/project2)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- Email: johnsmith@example.com
+- Twitter: [@johnsmith](https://twitter.com/johnsmith)
