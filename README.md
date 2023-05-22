@@ -6,8 +6,8 @@
 I am Aryan Santosh Shirke, a passionate and dedicated computer science student pursuing my Bachelor of Technology (B.Tech) in Computer Science and Engineering at the prestigious Indian Institute of Information and Technology Dharwad. 
 
 ## Education
-- Bachelor of Technology (B.Tech) in Computer Science and Engineering
-- Indian Institute of Information and Technology Dharwad
+🎓 Bachelor of Technology (B.Tech) in Computer Science and Engineering
+🎓 Indian Institute of Information and Technology Dharwad
 
 ## Skills
 - Programming Languages: C, C++, Python, Java
@@ -21,13 +21,7 @@ I am Aryan Santosh Shirke, a passionate and dedicated computer science student p
 
 ## Interests
 I am always eager to learn, collaborate, and contribute to meaningful projects in the field of technology. I constantly strive to expand my knowledge and stay up-to-date with the latest industry trends.
-
-### 👨‍💻 &nbsp;About Me
-
-🎓 &nbsp;I'm a Computer Science and Engineering Sophomore at IIIT Dharwad, Karnataka
-
-<br>
-
+ 
 ### 🛠 &nbsp;Tech Stack
 
 
