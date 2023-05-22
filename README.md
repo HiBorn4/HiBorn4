@@ -6,18 +6,34 @@ I'm John Doe, a passionate software developer with a focus on web and app develo
 ## Tech Stack
 Here are some of the technologies and frameworks I work with:
 
+- Programming Languages:
+  ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white&logoWidth=40)
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white&logoWidth=40)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white&logoWidth=40)
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white&logoWidth=40)
+
 - Web Development:
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&logoWidth=40)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white&logoWidth=40)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&logoWidth=40)
+
+- LaTeX:
+  ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white&logoWidth=40)
+
+- Databases:
+  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white&logoWidth=40)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white&logoWidth=40)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&logoWidth=40)
 
 - App Development:
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-  ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
-  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white&logoWidth=40)
+  ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white&logoWidth=40)
+
+- Tools and Platforms:
+  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white&logoWidth=40)
+  ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white&logoWidth=40)
+  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white&logoWidth=40)
+  ![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat&logo=gradle&logoColor=white&logoWidth=40)
 
 ## Connect with Me
 Let's connect and stay in touch:
