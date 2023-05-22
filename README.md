@@ -7,6 +7,7 @@ I am Aryan Santosh Shirke, a passionate and dedicated computer science student p
 
 ## Education
 🎓 Bachelor of Technology (B.Tech) in Computer Science and Engineering
+<br>
 🎓 Indian Institute of Information and Technology Dharwad
 
 ## Skills
