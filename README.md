@@ -4,7 +4,7 @@
 
 ### 👨‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm a Computer Science and Engineering Sophomore at IIIT Dharwad, Karnataka \
+🎓 &nbsp;I'm a Computer Science and Engineering Sophomore at IIIT Dharwad, Karnataka
 
 <br>
 
