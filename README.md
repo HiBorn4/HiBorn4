@@ -17,6 +17,7 @@ Here are some of the technologies and frameworks I work with:
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white&logoWidth=40)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&logoWidth=40)
 
+
 - LaTeX:
   ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white&logoWidth=40)
 
