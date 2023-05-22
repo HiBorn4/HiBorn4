@@ -38,9 +38,9 @@ Here are some of the technologies and frameworks I work with:
 ## Connect with Me
 Let's connect and stay in touch:
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your_twitter_handle)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_linkedin_profile)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your_github_username)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)]([https://twitter.com/your_twitter_handle](https://twitter.com/ShirkeAryan2234))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your_linkedin_profile](https://www.linkedin.com/in/aryan-shirke/))
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)]([https://github.com/your_github_username](https://github.com/HiBorn4))
 
 ## GitHub Stats
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HiBorn4&show_icons=true&theme=radical)
