@@ -27,7 +27,7 @@ Let's connect and stay in touch:
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your_github_username)
 
 ## GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?HiBorn4=your_github_username&show_icons=true&theme=radical)
 
 ## Most Used Languages
-![Your Name's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=radical)
+![Your Name's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?HiBorn4=your_github_username&layout=compact&theme=radical)
