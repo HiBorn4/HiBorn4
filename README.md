@@ -6,11 +6,12 @@ I'm John Doe, a passionate software developer with a focus on web and app develo
 ## Tech Stack
 Here are some of the technologies and frameworks I work with:
 
-- Programming Languages:
-  ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white&logoWidth=40)
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white&logoWidth=40)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white&logoWidth=40)
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white&logoWidth=40)
+- Programming Languages:  
+  <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white&logoWidth=40"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white&logoWidth=40"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white&logoWidth=40"/>
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white&logoWidth=40"/>
+
 
 - Web Development:
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&logoWidth=40)
