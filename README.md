@@ -3,7 +3,7 @@
 <h1 align="center"> Aryan Shirke - @HiBorn4 </h1>
 
 ## About Me
-I am Aryan Shirke, a passionate and dedicated computer science student pursuing my Bachelor of Technology (B.Tech) in Computer Science and Engineering at the prestigious Indian Institute of Information and Technology Dharwad. 
+I am Aryan Shirke, a passionate and dedicated computer science student pursuing my Bachelor of Technology (B.Tech) in Computer Science and Engineering at IIIT Dharwad. 
 
 ## Interests
 I am always eager to learn, collaborate, and contribute to meaningful projects in the field of technology. I constantly strive to expand my knowledge and stay up-to-date with the latest industry trends.
