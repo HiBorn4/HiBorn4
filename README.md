@@ -3,22 +3,7 @@
 <h1 align="center"> Aryan Shirke - @HiBorn4 </h1>
 
 ## About Me
-I am Aryan Santosh Shirke, a passionate and dedicated computer science student pursuing my Bachelor of Technology (B.Tech) in Computer Science and Engineering at the prestigious Indian Institute of Information and Technology Dharwad. 
-
-## Education
-🎓 Bachelor of Technology (B.Tech) in Computer Science and Engineering
-<br>
-🎓 Indian Institute of Information and Technology Dharwad
-
-## Skills
-- Programming Languages: C, C++, Python, Java
-- Web Technologies: HTML, CSS, JavaScript
-- Frameworks: Flutter
-- Databases: MySQL, PostgreSQL
-- Areas of Interest: Web and Mobile App Development, Computer Networks, Database Management Systems, Software Engineering, Cybersecurity, Artificial Intelligence (AI) and Machine Learning
-
-## Experience
-- Actively participated in various extracurricular activities, including organizing events and taking on positions of responsibility, showcasing my leadership and teamwork skills.
+I am Aryan Shirke, a passionate and dedicated computer science student pursuing my Bachelor of Technology (B.Tech) in Computer Science and Engineering at the prestigious Indian Institute of Information and Technology Dharwad. 
 
 ## Interests
 I am always eager to learn, collaborate, and contribute to meaningful projects in the field of technology. I constantly strive to expand my knowledge and stay up-to-date with the latest industry trends.
